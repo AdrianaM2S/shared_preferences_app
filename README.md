@@ -1,3 +1,3 @@
 # shared_preferences
 
-A new Flutter project.
+A new Flutter project to save user preferences.
